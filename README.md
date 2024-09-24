@@ -2,8 +2,8 @@
 
 This project demonstrates how to build a **stacking model** for a classification task using multiple **supervised learning algorithms**. The base models include **Decision Tree**, **Random Forest**, **K-Nearest Neighbors (KNN)**, **Gradient Boosting**, **AdaBoost**, and **Support Vector Machine (SVM)**. **XGBoost** is used as the meta-model in this stacking ensemble.
 
-Acknowledgments
-I want to express my heartfelt thanks to AI VIET NAM for their incredible support and guidance throughout this project. Their assistance has been invaluable in making this project a success.
+## Acknowledgments
+I want to express my heartfelt thanks to [AI VIET NAM](https://aivietnam.edu.vn/) for their incredible support and guidance throughout this project. Their assistance has been invaluable in making this project a success.
 
 ## Table of Contents
 1. [Introduction](#introduction)
