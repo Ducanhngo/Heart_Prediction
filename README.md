@@ -35,7 +35,7 @@ Dataset --> [Click here](https://drive.google.com/file/d/1zOj808OstnkaWlltM4qKNj
 This project aims to build a robust classification model by combining multiple supervised learning algorithms into a **stacking ensemble**. Stacking allows us to improve the overall predictive performance by leveraging the strengths of various models. In this implementation:
 - Base models: Decision Tree, Random Forest, KNN, Gradient Boosting, AdaBoost, and SVM.
 - Meta-model: XGBoost is used to learn from the outputs of the base models.
-![Models](https://github.com/Ducanhngo/Heart_Prediction/blob/main/Models.png)
+![Models]([https://github.com/Ducanhngo/Heart_Prediction/blob/main/Models.png](https://github.com/Ducanhngo/Heart_Prediction/blob/main/img/Models.png))
 ## Algorithms Used
 
 ### Decision Tree
