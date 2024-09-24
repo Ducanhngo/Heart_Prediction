@@ -7,7 +7,8 @@ I want to express my heartfelt thanks to [AI VIET NAM](https://aivietnam.edu.vn/
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Algorithms Used](#algorithms-used# Stacking Model for Classification Using Supervised Learning Algorithms
+2. [Algorithms Used](#algorithms-used)
+# Stacking Model for Classification Using Supervised Learning Algorithms
 
 This project demonstrates how to build a **stacking model** for a classification task using multiple **supervised learning algorithms**. The base models include **Decision Tree**, **Random Forest**, **K-Nearest Neighbors (KNN)**, **Gradient Boosting**, **AdaBoost**, and **Support Vector Machine (SVM)**. **XGBoost** is used as the meta-model in this stacking ensemble.
 Dataset --> [Click here](https://drive.google.com/file/d/1zOj808OstnkaWlltM4qKNjjT3iT3yeMN/view)
@@ -35,7 +36,7 @@ Dataset --> [Click here](https://drive.google.com/file/d/1zOj808OstnkaWlltM4qKNj
 This project aims to build a robust classification model by combining multiple supervised learning algorithms into a **stacking ensemble**. Stacking allows us to improve the overall predictive performance by leveraging the strengths of various models. In this implementation:
 - Base models: Decision Tree, Random Forest, KNN, Gradient Boosting, AdaBoost, and SVM.
 - Meta-model: XGBoost is used to learn from the outputs of the base models.
-![Models](https://github.com/Ducanhngo/Heart_Prediction/blob/main/Models.png)
+![Models](https://github.com/Ducanhngo/Heart_Prediction/blob/main/img/Models.png)
 ## Algorithms Used
 
 ### Decision Tree
