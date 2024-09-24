@@ -7,7 +7,8 @@ I want to express my heartfelt thanks to [AI VIET NAM](https://aivietnam.edu.vn/
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Algorithms Used](#algorithms-used# Stacking Model for Classification Using Supervised Learning Algorithms
+2. [Algorithms Used](#algorithms-used)
+# Stacking Model for Classification Using Supervised Learning Algorithms
 
 This project demonstrates how to build a **stacking model** for a classification task using multiple **supervised learning algorithms**. The base models include **Decision Tree**, **Random Forest**, **K-Nearest Neighbors (KNN)**, **Gradient Boosting**, **AdaBoost**, and **Support Vector Machine (SVM)**. **XGBoost** is used as the meta-model in this stacking ensemble.
 Dataset --> [Click here](https://drive.google.com/file/d/1zOj808OstnkaWlltM4qKNjjT3iT3yeMN/view)
